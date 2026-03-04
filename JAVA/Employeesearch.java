@@ -22,8 +22,8 @@ class Employee{
 	void display()
 	{
 		System.out.println("Employee Number :"+eNo);
-		System.out.println("Employee Number :"+eName);
-		System.out.println("Employee Number :"+eSalary);
+		System.out.println("Employee Name :"+eName);
+		System.out.println("Employee Salary :"+eSalary);
 		
 	}
 }
